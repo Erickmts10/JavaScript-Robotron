@@ -6,7 +6,7 @@
  
 Exercícios de logica de programação em linguagem JavaScript:
 
-Neste projeto foi criado uma página dinâmica Robotron 2000, onde é possível alterar os atributos de um robô, utilizando as propriedades de JS para alterar o HTML.
+Neste projeto foi criado uma página dinâmica Robotron 2000, onde é possível modificar os atributos de um robô, utilizando as propriedades de JS para alterar o HTML.
 
 <h3>:heavy_check_mark:Tecnologias utilizadas</h3>
 
