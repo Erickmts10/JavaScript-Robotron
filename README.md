@@ -1,4 +1,4 @@
-<h1 align="center"> JavaScript-from-Zero-to-Hero-GrupoBoticario-Alura-Pagina-Robotron-2000</h1>
+<h1 align="center"> JavaScript-Robotron-2000</h1>
 
 ![logo JavaScript](https://github.com/Erickmts10/JavaScript-from-Zero-to-Hero-GB-Alura-parte-3/blob/main/Logo/Logo.png)
 
